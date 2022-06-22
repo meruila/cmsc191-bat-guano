@@ -1,8 +1,8 @@
 
 # CMSC 191 Bat Guano Project
 ## How to run
-1. Clone the repository: `git clone https://github.com/usteng/cmsc191-ef2-project.git`
-2. In the `cmsc191-ef2-project` directory, run `npm i` to install the dependencies
+1. Clone the repository: `https://github.com/meruila/cmsc191-bat-guano.git`
+2. In the `cmsc191-bat-guano` directory, run `npm i` to install the dependencies
 3. In the same directory, run `npm run dev`
 
 ## Dependencies 
